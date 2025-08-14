@@ -1,2 +1,2 @@
 # CYC-101
-Programs for CYC-101 lab sessions
+Programs from CYC-101 lab sessions
